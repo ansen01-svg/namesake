@@ -1,5 +1,11 @@
 # namesake
 
+## 0.15.0
+
+### Minor Changes
+
+- cf18a88: Add links to terms of service and privacy policy
+
 ## 0.14.0
 
 ### Minor Changes
