@@ -1,5 +1,11 @@
 # namesake
 
+## 0.18.1
+
+### Patch Changes
+
+- 6b25e40: Support selecting a birthplace outside the US
+
 ## 0.18.0
 
 ### Minor Changes
